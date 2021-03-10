@@ -33,4 +33,5 @@
     height: 100px;
     background: #272b30;
   }
+  /* Empty comment to test commit signing */
 </style>
